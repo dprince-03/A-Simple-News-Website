@@ -1,0 +1,25 @@
+{
+  "name": "a-simple-news-website",
+  "version": "1.0.0",
+  "description": "A News Website With Node.js, Express &amp; EJS - WP Rest API",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "watch": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dprince-03/A-Simple-News-Website.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dprince-03/A-Simple-News-Website/issues"
+  },
+  "homepage": "https://github.com/dprince-03/A-Simple-News-Website#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
